@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/water">
+
+    <fragment
+        android:id="@+id/water"
+        android:name="com.example.sports.ui.water.waterFragment"
+        android:label="water sports"
+        tools:layout="@layout/fragment_water" />
+
+    <fragment
+        android:id="@+id/land"
+        android:name="com.example.sports.ui.land.LandFragment"
+        android:label="land sports"
+        tools:layout="@layout/fragment_land" />
+
+    <fragment
+        android:id="@+id/air"
+        android:name="com.example.sports.ui.air.AirFragment"
+        android:label="air sports"
+        tools:layout="@layout/fragment_air" />
+</navigation>

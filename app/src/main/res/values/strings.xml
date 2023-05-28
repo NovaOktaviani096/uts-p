@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="air_sports">Air Sports</string>
+    <string name="land_sports">Land Sports</string>
+    <string name="water_sports">Water Sports</string>
+
+    <string name="affirmation1">big wave surfing</string>
+    <string name="affirmation2">base jumping</string>
+    <string name="affirmation3">bull riding</string>
+    <string name="affirmation4">wingsuit flying</string>
+    <string name="affirmation5">slacklining</string>
+    <string name="affirmation6">cliff diving</string>
+    <string name="affirmation7">rock climbing</string>
+    <string name="affirmation8">creeking</string>
+    <string name="affirmation9">paragliding</string>
+    <string name="affirmation10">bungee jumping</string>
+
+    <string name="water_sports1">surfing</string>
+    <string name="water_sports2">scuba diving</string>
+    <string name="water_sports3">kayaking</string>
+    <string name="water_sports4">snorkeling</string>
+    <string name="water_sports5">parasailing</string>
+
+    <string name="water_sports_info1">Surfing is one of the most iconic summer water sports. Starting with an early-morning surf is a wonderful way to ease into the day, as is closing out the afternoon on the waves. With so many incredible breaks and surfing conditions around the country, it’s also a very accessible sport. If you’ve never surfed before, there are plenty of companies in many coastal towns that offer lessons so that you can learn the basics. Once you have them down, you’ll be hitting the waves in no time. Keep in mind, there are three main types of breaks, which affect the conditions and waves. These are reef, point, and beach breaks, and each suits different levels of skill and experience.</string>
+    <string name="water_sports_info2">Discover the depths of the ocean more closely with scuba diving. In Australia, you need to be certified before you can start recreationally diving; however, the course itself is fun and educational, and the certification is often valid for life. Learning to dive generally involves a couple of days of theory and pool work before putting your new knowledge to the test in the open water. Once you’re certified, you’ll be able to join day tours doing recreational dives or even opt for a liveaboard trip that sees you spend a few days out on the ocean exploring. Of course, Australia is blessed with two incredible barrier reefs, as well as many wrecks and man-made reefs that are teeming with exciting wildlife and colorful coral.</string>
+    <string name="water_sports_info3">Kayaking is another relatively easy, low-impact water sport that’s great for everyone. A kayak is a small, narrow watercraft that fits one or two people and is propelled by double-bladed paddle power. It’s brilliant for exploring calmer waters including protected coastlines, lagoons, and rivers. The small size and low height to the water mean you can get closer to the scenery than other vessels such as boats. Plus, it’s an excellent workout session. Paddling uses your arms, back, and shoulders while balancing engages your core. Join in a kayaking tour to get in-depth knowledge of the environment around you, or hire one for a few hours to explore independently. Once you’re a confident paddler, you can try tackling the surf or river rapids or throw a fishing line in from your kayak</string>
+    <string name="water_sports_info4">Snorkeling is an excellent activity for the whole family, and a fantastic way to see the world under the sea. Plus, it’s easy to learn, even if you have no experience. All you need is to know how to swim and adjust your breathing slightly with the mask and snorkel. Reefs and wrecks are the best places to explore sea life, such as coral, fish, stingrays, and even turtles. Depending on your location, there could be reefs accessible from the beach. Alternatively, you can take a boat trip out to deeper reef systems or even a permanent reef platform. Just remember to be sun-safe, and apply plenty of sunscreen to your back, legs, and butt — there’s nothing worse than a sunburnt booty!</string>
+    <string name="water_sports_info5">Get a birds’-eye view of the world from a parasail. It’s an exhilarating experience that sees you launched off the back of a high-speed boat while attached to a large parasail. You sit comfortably in a harness while enjoying the sea breeze and brilliant views. Plus, you won’t necessarily have to get wet. Once your flight time is over, you’ll be gently guided back to the boat for landing. It’s a great activity for most of the family, although there is generally minimum age and weight restrictions. However, paragliding can also be a great option for people with disabilities</string>
+
+    <string name="land_sports1">skate boarding</string>
+    <string name="land_sports2">BMX</string>
+    <string name="land_sports3">parkour</string>
+    <string name="land_sports4">soccer</string>
+    <string name="land_sports5">tennis</string>
+
+    <string name="land_sports_info1">There are varying degrees of skateboarding, but here’s the bottom line. Every skateboarder works to improve their skills, adding more difficult tricks every time. Crashing onto the pavement is to be expected, and getting back up to try it again is part of the process.</string>
+    <string name="land_sports_info2">There’s the traditional BMX racing and then there’s BMX freestyle, where riders attempt to gain massive air and pull off next to impossible tricks. Landing a big trick on a bmx bike brings a big rush, but crashing brings a big OUCH!</string>
+    <string name="land_sports_info3">An extreme sport where the participant moves freely through and over terrain. This often takes place in urban environments and includes, running, jumping, climbing and quadrupedal movement. Parkour is also known as Freerunning.</string>
+    <string name="land_sports_info4">The game of soccer more commonly referred to outside the United States as football — has long been one of the most popular sports in the world. With origins that date back many centuries, soccer is played by young children, college students and professionals. Amateur clubs and weekend warriors add to the passion that swells up every four years for the most-watched sporting event in the world, the World Cup</string>
+    <string name="land_sports_info5">Tennis is a great way of keeping fit and having fun with friends. It helps develop your hand-eye coordination, is non-contact and can be played by anyone, of any age! With many people playing into their older years, it’s a sport for life and provides you with a great opportunity to meet new people and make friends</string>
+
+    <string name="air_sports1">paragliding</string>
+    <string name="air_sports2">skydiving</string>
+    <string name="air_sports3">bungee jumping</string>
+    <string name="air_sports4">slacklining</string>
+    <string name="air_sports5">wingsuit flying</string>
+
+    <string name="air_sports_info1">Same concept as hang gliding, but paragliding uses a certain type of parachute, and in some cases a propeller. Paragliders can reach great heights and soar for several miles at time. Due to gusts and shifting wind patterns, paragliding is rather risky.</string>
+    <string name="air_sports_info2">Probably one of the oldest of all extreme sports, skydiving originated over 200 years ago. The sport has since evolved into jumping from aircraft and doing a variety of midair tricks before deploying the parachute. Although it is a widely practiced sport, it still carries a considerable amount of risk and produces an adrenaline rush that is described as addictive.</string>
+    <string name="air_sports_info3">On the bucket list of so many people, bungee jumping is one of the most popular extreme sports. Jumping from great heights, with an elastic cord strapped to your feet, can be an utterly exhilarating experience. From waterfalls and canyons to abandoned industrial plants, there are spots all over the world you can bungee jump from.</string>
+    <string name="air_sports_info4">If you have a steady balance and nerves of steel, slacklining is an extreme sport you should definitely try.Slacklines are suspended looser than tightropes or tightwalks, meaning they stretch and bounce as you slowly walk across them. As with tightropes, professional walkers push themselves to the limit by slacklining from dizzying heights.</string>
+    <string name="air_sports_info5">Wingsuit flying takes freefalling to an entirely new dimension. Wingsuits are designed to increase lift as you fall, meaning you can fly for longer, with more control. Some of the freefalls and paths wingsuit flyers attempt are truly insane. Many daredevils like to wear a wingsuit when doing other extreme sports, like BASE jumping.</string>
+    <string name="welcome" />
+    <string name="desc">desc...</string>
+    <string name="detail">detail</string>
+
+</resources>
